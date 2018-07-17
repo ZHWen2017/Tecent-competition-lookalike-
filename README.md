@@ -1,6 +1,6 @@
 
 ## Ready Player One
-#### author：张海恩，温志煌，徐康
+author：张海恩，温志煌，徐康
 
 ## 欢迎阅读
 
