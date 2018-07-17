@@ -1,9 +1,7 @@
 
-#Ready Player One
+### Ready Player One
 
 ## 欢迎阅读
-
-### 说明：
 
 ### 使用前提：
 
