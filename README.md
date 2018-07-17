@@ -20,8 +20,8 @@
 2: 请在Project目录下新建一个名为data的文件夹，文件夹内包含两个文件夹data1,data2其中data1中存放初赛解  压后的数据,data2中存放复赛解压后的 数据。
 
 ### 操作流程：
- mkdir models
- ./run.sh
+ * mkdir models
+ * ./run.sh
 
 ### 各个脚本及其运行步骤说明：
 
